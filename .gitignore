@@ -3,3 +3,4 @@ dist
 .idea
 venv
 ZScriptPlugin.egg-info
+*.tar.gz

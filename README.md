@@ -1,12 +1,11 @@
 # Instructions
 
 ### How to Install/Update
-1. Download zscript-plugin.tar.gz
-2. Untar the archive
-3. Run install.sh
+1. Clone this repo
+2. Run install.sh
 
 ### How to Build
-1. Download zscript-plugin.tar.gz
-2. Untar the archive
-3. Make your changes
-4. Run build.sh
+1. Clone this repo
+2. Make your changes
+3. Run build.sh
+4. Distribute the .tar.gz file with instructions to extract and run install.sh
